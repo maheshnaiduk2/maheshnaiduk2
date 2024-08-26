@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheshNaiduK
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Golang and Python
+- 🌱 I’m currently learning Python and Golang 
 - 💞️ I’m looking to collaborate with open Source
 - 📫 How to reach me kmahesh.nm@gmail.com
 
